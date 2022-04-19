@@ -1,0 +1,26 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "This is a rpg game that will run from the command line ",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rsmdo/jest-another-rpg.git"
+  },
+  "keywords": [
+    "node",
+    "royden-semedo"
+  ],
+  "author": "Royden Semedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rsmdo/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/Rsmdo/jest-another-rpg#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
